@@ -1,5 +1,5 @@
 import { fetchFilters } from '../actions';
-import { combineReducers } from '../../../../Library/Caches/typescript/3.2/node_modules/@types/react-redux/node_modules/redux';
+import { combineReducers } from 'redux';
 
 const initialState = {
   data: [],
